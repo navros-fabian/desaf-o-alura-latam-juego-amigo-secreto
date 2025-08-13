@@ -47,9 +47,9 @@ Sorteo-Amigo-Secreto/ ├── index.html ├── script.js └── README.
 
 ## 🖼️ Vista previa del proyecto
 
-> *(![Texto alternativo](./assets/imagen+juego+amigo+secreto.png))*
 
-![Vista previa del sorteo](https://via.placeholder.com/600x300?text=Vista+del+Sorteo+Amigo+Secreto)
+
+![Vista previa del sorteo](./asset/imagenjuegoamigosecreto.png))
 
 ---
 
