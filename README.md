@@ -47,7 +47,7 @@ Sorteo-Amigo-Secreto/ ├── index.html ├── script.js └── README.
 
 ## 🖼️ Vista previa del proyecto
 
-> *(http://127.0.0.1:5500/assets/amigo-secreto.png)*
+> *(challenge-amigo-secreto_esp-main/assets/imagen juego amigo secreto.png)*
 
 ![Vista previa del sorteo](https://via.placeholder.com/600x300?text=Vista+del+Sorteo+Amigo+Secreto)
 
