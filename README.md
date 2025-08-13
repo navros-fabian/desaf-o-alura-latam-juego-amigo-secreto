@@ -48,8 +48,7 @@ Sorteo-Amigo-Secreto/ ├── index.html ├── script.js └── README.
 ## 🖼️ Vista previa del proyecto
 
 
-
-![Vista previa del sorteo](./asset/imagenjuegoamigosecreto.png))
+![Vista previa del juego](imagenjuegoamigosecreto.png)
 
 ---
 
